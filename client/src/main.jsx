@@ -1,17 +1,4 @@
-// import React from "react";
-// import ReactDOM from "react-dom";
-
-// import App from "./App";
-// import { TransactionsProvider } from "./context/TransactionContext";
-// import "./index.css";
-
-// ReactDOM.render(
-//   <TransactionsProvider>
-//     <App />
-//   </TransactionsProvider>,
-//   document.getElementById("root"),
-// );
-
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App";
